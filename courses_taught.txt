@@ -1,0 +1,159 @@
+
+Course Name	Course Title	
+CSE101	Computer Science Principles	
+
+
+CSE114	Introduction to Object-Oriented Programming	
+
+
+CSE150	Foundations of Computer Science: Honors		
+
+
+CSE160	Computer Science A: Honors			
+
+
+CSE161	Lab for Comp Sci A: Honors			
+
+
+CSE214	Data Structures	
+
+
+CSE215	Foundations of Computer Science	
+
+
+CSE216	Programming Abstractions	
+
+
+CSE220	System Fundamentals I		
+
+CSE260	Computer Science B: Honors		
+
+
+CSE261	Laboratory for Computer Science B: Honors		
+
+
+CSE300	Technical Communications	
+
+
+CSE301	History of Computing					
+CSE303	Introduction to the Theory of Computation		
+
+
+CSE304	Compiler Design			
+
+CSE305	Principles of Database Systems		
+
+
+CSE306	Operating Systems		
+
+CSE307	Principles of Programming Languages			
+
+
+CSE310	Computer Networks	
+
+CSE311	Systems Administration			
+
+
+CSE312	Legal, Social, and Ethical Issues in Information Systems	
+
+
+CSE316	Fundamentals of Software Development		
+
+
+CSE320	System Fundamentals II		
+
+
+CSE323	Human Computer Interaction			
+
+
+CSE327	Fundamentals of Computer Vision		
+
+
+CSE328	Fundamentals of Computer Graphics			
+
+
+CSE331	Computer Security Fundamentals		
+
+
+CSE332	Introduction to Visualization		
+
+
+CSE333	User Interface Development		
+
+
+CSE334	Introduction to Multimedia Systems		
+
+
+CSE337	Scripting Languages		
+
+
+CSE346	Computer Communications					
+CSE350	Theory of Computation: Honors		
+
+
+CSE351	Introduction to Data Science	
+
+
+CSE352	Artificial Intelligence					
+CSE353	Machine Learning		
+
+
+CSE354	Natural Language Processing			
+
+
+CSE355	Computational Geometry					
+
+
+CSE356	Cloud Computing		
+
+
+CSE357	Statistical Methods for Data Science					
+
+
+CSE360	Software Security		
+
+
+CSE361	Web Security			
+
+
+CSE362	Mobile Security					
+CSE363	Offensive Security					
+CSE371	Logic		
+
+
+CSE373	Analysis of Algorithms		
+
+
+CSE376	Advanced System Programming in UNIX/C					
+CSE377	Introduction to Medical Imaging			
+
+
+CSE378	Introduction to Robotics		
+
+
+CSE380	2D Game Programming			
+
+
+CSE381	3D Game Programming		
+
+
+CSE385	Analysis of Algorithms: Honors			
+
+
+CSE390-394	Special Topics in Computer Science					
+CSE416	Software Engineering		
+
+
+CSE475	Undergraduate Teaching Practicum	
+
+
+CSE487	Research in Computer Science	
+
+
+CSE488	Internship in Computer Science	
+
+
+CSE495	Senior Honors Research Project I		
+
+
+CSE496	Senior Honors Research Project II
