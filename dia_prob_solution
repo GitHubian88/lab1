@@ -1,0 +1,8 @@
+import           Data.List
+
+main = do
+    raw <- getContents
+    let
+        lns = head $ lines raw
+        grp s = if length s > 1 then ([(head s)] ++ (show (length s))) else s
+    putStrLn $ concat $ map grp $ group lns
