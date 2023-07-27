@@ -1,0 +1,234 @@
+Stanley Bak
+Assistant Professor
+Verification of Neural Networks, Cyber-Physical Systems, Formal Analysis of Hybrid Systems
+
+Aruna Balasubramanian
+Associate Professor
+Systems, Mobile Computing, Web performance, Networking.
+
+Niranjan Balasubramanian
+Assistant Professor
+Natural Language Processing (NLP) and information retrieval.
+
+Ritwik Banerjee
+Research Assistant Professor
+Natural Language Processing (NLP), Computational Linguistics, Information Extraction
+
+Michael Bender
+Professor
+Algorithms, Data Structures, Cache and I/O-efficient Computing, Parallel Computing, Scheduling.
+
+Xiaojun Bi
+Associate Professor
+Human Computer Interaction, Mobile Computing, Interactive Systems, Interaction Techniques, Theoretical Issues of UI Design.
+
+Barbara Chapman
+Professor
+Programming Models for Parallel Computing and Scalable Machine Learning; Compiler Technology; High Performance Computing; Application Development Tools. For... More
+
+Omar Chowdhury
+Associate Professor, SUNY Empire Innovation Scholar
+Computer Security, Privacy, Formal Methods, Automated Reasoning
+
+Rezaul Chowdhury
+Associate Professor
+Algorithms and Data Structures for Efficient Serial and Parallel Computations, Cache- and I/O-efficient Computing, Computational Biology and Bioinformatics,... More
+
+Samir R. Das
+Professor and Chair
+Mobile/Wireless Networking - protocols, systems and performance evaluation.
+
+Ahmad Esmaili
+Lecturer and ISE Undergraduate Program Director
+Design and Analysis of Algorithms, Web Technologies, Information Systems, Computer Science Education, Mobile Application Development.
+
+Michael Ferdman
+Associate Professor
+Computer architecture, operating systems, machine learning, reconfigurable hardware, FPGAs, GPUs, data centers, cloud computing, networks, internet security.
+
+Paul Fodor
+Associate Professor of Practice
+Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, Knowledge Representation for the Semantic Web, Active... More
+
+Pramod Ganapathi
+Research Assistant Professor
+Mathematical and Algorithmic Puzzles, Algorithms to Discover Algorithms, Algorithm Design Techniques, Parallel Algorithms, Cache-Efficient Algorithms
+
+Anshul Gandhi
+Associate Professor
+Anshul's high-level research interests are in applying theory to systems. In particular, his research aims to leverage mathematical tools such as {... More
+
+Xianfeng Gu
+SUNY Empire Innovation Professor
+Computational Conformal Geometry, Computer Graphics, Visualization, Computer Vision, Geometric Modeling, Networking, Medical Imaging, Digital Geometry... More
+
+Himanshu Gupta
+Professor
+Quantum Networks, Wireless Networks and Algorithms
+
+Jalaa Hoblos
+Associate Professor of Practice
+Data Quality Analysis, Cloud Computing, Wireless Networks Security, Statistical Mathematics
+
+Shubham Jain
+Assistant Professor
+Mobile Sensing, Wearable Health, Cyber-physical Systems, Smart Cities
+
+Christopher Kane
+Research Assistant Professor
+Programming Languages, Security, Distributed Algorithms
+
+Arie Kaufman
+Distinguished Professor and CEWIT Chief Scientist
+Computer Graphics, Visualization, Virtual Reality, User Interfaces, Multimedia, Computer Architecture
+
+Robert F. Kelly
+Political Informatics, Software Engineering, Parallel Programming.
+
+Dominik Kempa
+Assistant Professor
+String algorithms, data compression, compressed data structures, bioinformatics, parallel and external-memory algorithms.
+
+Michael Kifer
+Professor
+Declarative Languages for Data and Knowledge Manipulation, The Semantic Web, Integration of Object-oriented and Deductive Paradigms, Object-oriented Databases... More
+
+Dongyoon Lee
+Assistant Professor
+Dongyoon Lee is a computer systems researcher with particular interests in building reliable, secure, and efficient software systems. He loves working on the... More
+
+Haibin Ling
+SUNY Empire Innovation Professor
+Computer Vision, Medical Image Analysis, Augmented Reality and Human-Computer Interaction.
+
+Y. Annie Liu
+Professor
+Languages, Algorithms, Program Design and Optimizations, Program Analysis and Transformations, Intelligent Systems, Distributed Systems, and Security.
+
+Kevin McDonnell
+CS Undergraduate Program Director and Professor of Practice
+Computer Science Education, Visualization, Visual Analytics, Geometric Modeling, Computer Graphics
+
+Richard McKenna
+Lecturer
+Computer Science Education, Computer Game Programming, Internet Commerce Programming.
+
+Joydeep Mitra
+Research Assistant Professor
+Mobile Security, Programming Languages, Software Development Methodologies, Cheminformatics
+
+Shuai Mu
+Assistant Professor
+Distributed Systems
+
+Klaus Mueller
+Professor
+Visualization, Explainable AI, Visual Analytics, Explainable AI, Data Science, Big Data, Virtual & Augmented Reality, Medical Imaging, High Performance... More
+
+Minh Hoai Nguyen
+Associate Professor
+Computer Vision; Machine Learning; Human Activity Recognition; Semantic Video Analysis
+
+Nick Nikiforakis
+Associate Professor
+Web security and privacy, Software security, and Intrusion Detection.
+
+Omkant Pandey
+Associate Professor
+Cryptography (Applied and Theory), Security, Privacy
+
+Supartha Podder
+Assistant Professor
+Quantum computing, complexity theory, quantum cryptography, analysis of boolean functions
+
+Michalis Polychronakis
+Associate Professor
+Network and systems security, network monitoring and measurement, online privacy.
+
+Hong Qin
+Professor
+Computer Graphics, Geometric and Physics-Based Modeling, Computer Aided Design, Computer Integrated Manufacturing, Computer Aided Geometric Design, Virtual... More
+
+Amir Rahmati
+Assistant Professor
+System Security, Privacy, Internet of Things, Cyber-Physical Systems, Adversarial Machine Learning, Emerging Systems, Hardware Security
+
+C.R. Ramakrishnan
+Professor and Graduate Program Director
+Logic Programming, Programming Languages, Verification.
+
+I.V. Ramakrishnan
+Professor and Associate Dean for Strategic Initiatives
+Artificial Intelligence, Computational Logic, Machine Learning/Computational Logic Combination, Information Retrieval, Computer Accessibility
+
+Michael Ryoo
+SUNY Empire Innovation Associate Professor
+Michael’s prime research interest is in the field of deep learning and its applications to computer vision and robotics.
+
+Dimitris Samaras
+SUNY Empire Innovation Professor
+Computer vision; machine learning; computational behavioral sciences; computer graphics; medical imaging; computational photography.
+
+Tony Scarlatos
+Senior Lecturer
+Multimedia, Interface Design, Computer-based Training, and Distance Learning.
+
+H. Andrew Schwartz
+Associate Professor
+Large and scalable language analyses for psychological and health discovery; computational social science; natural language processing; lexical semantics;... More
+
+R. Sekar
+SUNY Empire Innovation Professor and Associate Chair
+Computer and Network Security, Software/Distributed Systems, Programming Languages, Software Engineering.
+
+Radu Sion
+Associate Professor
+Cyber-Security, Applied Cryptography, Network Security, Systems Security, Systems, Large-Scale and Cloud Computing, Green Computing, and Cost and Energy-... More
+
+Steven Skiena
+Distinguished Teaching Professor; SUNY Empire Innovation Professor and Director, AI Institute
+Algorithms, Computational Biology, Large-scale Text Analytics and Sentiment Analysis, Social Trends Analysis, Combinatorial Computing Environments, and... More
+
+Scott Smolka
+Distinguished Professor
+Model Checking, Semantics of Concurrency, CASE Tools for Safety-Critical Systems, Distributed Languages and Algorithms.
+
+Eugene Stark
+Professor
+Operating Systems, Programming Language Semantics, Concurrency Theory, Specification and Verification of Distributed Algorithms, and Functional Programming... More
+
+Scott Stoller
+Professor
+Distributed Systems, Fault-tolerance and Security, Software Testing and Verification, Program Analysis and Optimization.
+
+Yifan Sun
+Assistant Professor
+Convex and nonconvex optimization for machine learning and scientific computing
+
+Allen Tannenbaum
+Distinguished Professor
+Computational computer vision, image processing, medical imaging, computer graphics, control, mathematical systems theory, control of semiconductor fabrication... More
+
+Praveen Tripathi
+Research Assistant Professor
+Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.
+
+Fusheng Wang
+Associate Professor
+Scalable data management systems, spatial and temporal data management and analytics, medical imaging informatics, healthcare and public health data analytics
+
+Anita Wasilewska
+Associate Professor
+Foundations of Data Mining Data Mining and Knowledge Discovery, Biology and Bioinformatics, Applications for the Automated Theorem Provers, Inductive Learning... More
+
+Zhaozheng Yin
+SUNY Empire Innovation Associate Professor
+Biomedical Image Analysis, Computer Vision, Machine Learning, Cyber-Physical Systems, Human-Robot Collaboration
+
+Nengkun Yu
+Associate Professor, SUNY Empire Innovation Scholar
+Distributed quantum computing, Quantum network, Quantum logic, Quantum algorithms
+
+Erez Zadok
+Professor and Graduate Academic Adviser
+File Systems and Storage, Operating Systems, Energy Efficiency, Performance and Benchmarking, Security, Networking, Big Data, Distributed Systems, and Data... More
